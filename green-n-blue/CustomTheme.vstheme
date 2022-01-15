@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="green-n-blue (1)" GUID="{8f312260-47be-4a31-a1a3-c2018b46eb1b}" BaseGUID="{1ee2bdad-9d60-4290-8e08-7687a1e886b3}">
+  <Theme Name="green-n-blue (2)" GUID="{0f0e1617-bb0b-4e55-a3a6-de0f4e0530f7}" BaseGUID="{1ee2bdad-9d60-4290-8e08-7687a1e886b3}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1B1F2E" />
@@ -1654,7 +1654,7 @@
       </Color>
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC800" />
+        <Foreground Type="CT_RAW" Source="FFFF8400" />
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
@@ -1686,11 +1686,11 @@
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC800" />
+        <Foreground Type="CT_RAW" Source="FFFF8400" />
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC800" />
+        <Foreground Type="CT_RAW" Source="FFFF8400" />
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
@@ -1698,7 +1698,7 @@
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC800" />
+        <Foreground Type="CT_RAW" Source="FFFF8400" />
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
@@ -1722,7 +1722,7 @@
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC800" />
+        <Foreground Type="CT_RAW" Source="FFFF8400" />
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
@@ -1750,7 +1750,7 @@
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC800" />
+        <Foreground Type="CT_RAW" Source="FFFF8400" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_RAW" Source="00000000" />
